@@ -35,7 +35,7 @@ The optimized Random Forest classifier achieved the **highest F1-score (89%)**, 
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/CVD_Risk_Classifier.git](https://github.com/your-username/CVD_Risk_Classifier.git)
+    git clone [https://github.com/ArbazRizvi/CVD_Risk_Classifier.git](https://github.com/ArbazRizvi/CVD_Risk_Classifier.git)
     cd CVD_Risk_Classifier
     ```
 2.  Install the required packages:
